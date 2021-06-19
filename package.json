@@ -1,0 +1,18 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "description": "a simple chating app using web sockets - socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "owais ul haq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
